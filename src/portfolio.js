@@ -217,25 +217,25 @@ const bigProjects = {
   subtitle: "SOME PROJECTS I HAVE WORKED ON",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "xxx",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/austin.jpg"),
+      projectName: "Where to Live",
+      projectDesc: "I designed and built an algorithm to rank the best places to live in America by analyzing a dataset of over 10,000 cities using economic, social, and environmental factors. To make the results easy to interpret, I developed a fully interactive Tableau dashboard that combined insights generated with R, Python, SQL, and JavaScript. I also created a dynamic D3.js visualization that allowed users to explore city rankings in real time, turning complex data into clear, intuitive insights. Throughout the project, I focused on precision and user experience, ensuring the tool could guide users toward smart, data-backed decisions about where to live.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "View Project",
+          url: "https://public.tableau.com/app/profile/pooja.amin7793/viz/WheretoLiveProject/Tellusaboutyourself"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "xxx",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/femfitLogo.png"),
+      projectName: "FemFit",
+      projectDesc: "I conceptualized and launched a fitness and wellness app designed to deliver truly personalized health coaching for women. I led the full development process—from designing an intuitive user experience to building secure authentication, managing databases, and ensuring front-end scalability using FlutterFlow, Firebase, and Python. I also integrated multiple APIs to provide real-time fitness, nutrition, and menstrual tracking, while connecting users to an AI-driven virtual wellness coach that delivers customized advice. Beyond tracking health metrics, I focused on creating a platform that proactively educates and supports women through every stage of their wellness journey.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "View Project",
+          url: "https://apps.apple.com/us/app/femfit-womens-health/id6741535859"
         }
       ]
     }
