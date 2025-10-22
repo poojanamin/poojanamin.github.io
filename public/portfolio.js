@@ -1,6 +1,6 @@
-/* Change this file to get your personal Portfolio */
+/* Change this file to get your personal poojanamin */
 
-// To change portfolio colors globally go to the  _globalColor.scss file
+// To change poojanamin colors globally go to the  _globalColor.scss file
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
@@ -225,7 +225,6 @@ const bigProjects = {
 };
 
 
-
 // Resume Section
 const resumeSection = {
   title: "Resume",
@@ -242,6 +241,7 @@ const contactInfo = {
   number: "(609) 598-3842",
   email_address: "poojanamin0408@gmail.com"
 };
+
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
